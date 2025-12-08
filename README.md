@@ -3,7 +3,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1aIjbLbDx4W0iinA-ELJwgLIMpULa-6-t" alt="Logo Itera" width="150"/>
 
   # ITERA
-  ### Unificando Universos Corporativos
+  ### Inovação Tecnológica, Evolução e Resultado Aplicado
 
   <p>
     <a href="#-sobre-nós">Sobre</a> •
