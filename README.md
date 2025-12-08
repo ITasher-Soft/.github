@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=ITERA" alt="Logo Itera" width="150"/>
+  <img src="https://drive.google.com/uc?export=view&id=1aIjbLbDx4W0iinA-ELJwgLIMpULa-6-t" alt="Logo Itera" width="150"/>
 
   # ITERA
   ### Unificando Universos Corporativos
