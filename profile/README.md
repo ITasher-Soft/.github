@@ -66,7 +66,7 @@ Nós desenvolvemos soluções sob medida para **unificar sistemas e processos**.
 Estamos construindo o futuro com tecnologias robustas que garantem segurança e escalabilidade.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,js,nodejs,php,python,aws,docker&theme=light" alt="Tech Stack Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,java,spring,postgres,js,nodejs,aws,docker&theme=light" alt="Tech Stack Skills" />
 </div>
 
 ---
